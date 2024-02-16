@@ -1,11 +1,7 @@
 # weather_app_assignment.
 A submission for my Python Developer Internship by Adepoju Emmanuel
 
-# Untitled
-
-Created: February 16, 2024 3:04 PM
-
-### Follow the instruction to run the App.
+## Follow the instruction to run the App.
 
 ### Technologies Required
 
